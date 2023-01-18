@@ -8,7 +8,7 @@ Initialize the points in the list
 ### Step 2:
 Substitute the values in the distance formula 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](formula.png)
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
